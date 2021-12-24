@@ -1,8 +1,8 @@
 {
-  "rom_url": "https://bigota.d.miui.com/V12.5.17.0.RKACNXM/miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip",
+  "rom_url": "http://bigota.d.miui.com/V12.5.6.0.RFACNXM/miui_CEPHEUS_V12.5.6.0.RFACNXM_5d1239a6d1_11.0.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "SGSI.zip",
-  "make_type": "AB",
+  "make_type": "A",
   "rom_type": "miui",
   "light_fix": true,
   "bug_fix": true,
